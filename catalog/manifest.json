@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T00:00:06Z",
+  "decks": [
+    {
+      "id": "fdt1-lecture-a-ka-sa",
+      "version": "1.0.1",
+      "deckSchema": 1,
+      "minAppVersion": "1.0.0",
+      "title": {
+        "fr": "Fondamentaux 1 : colonnes A à SA"
+      },
+      "description": {
+        "fr": "27 mots des fiches du cours Fondamentaux 1, en 3 leçons."
+      },
+      "tags": [
+        "fdt1"
+      ],
+      "cardCount": 27,
+      "lessonCount": 3,
+      "url": "decks/fdt1-lecture-a-ka-sa.json",
+      "sha256": "4e0dbde779829e1734847b8ff6f46d217a4a39a9aafec63210e98ea30bd69b35",
+      "sizeBytes": 7311,
+      "license": "Fdt1 (usage du groupe)",
+      "changelog": {}
+    },
+    {
+      "id": "fdt1-lecture-ha-ma",
+      "version": "1.0.1",
+      "deckSchema": 1,
+      "minAppVersion": "1.0.0",
+      "title": {
+        "fr": "Fondamentaux 1 : colonnes HA à MA"
+      },
+      "description": {
+        "fr": "27 mots des fiches du cours Fondamentaux 1, en 2 leçons."
+      },
+      "tags": [
+        "fdt1"
+      ],
+      "cardCount": 27,
+      "lessonCount": 2,
+      "url": "decks/fdt1-lecture-ha-ma.json",
+      "sha256": "76b46c8ebecb8280c0bf231e696f5e0306dd8aa8b1e64376584335f27db3398a",
+      "sizeBytes": 7068,
+      "license": "Fdt1 (usage du groupe)",
+      "changelog": {}
+    },
+    {
+      "id": "fdt1-lecture-ta-na",
+      "version": "1.0.1",
+      "deckSchema": 1,
+      "minAppVersion": "1.0.0",
+      "title": {
+        "fr": "Fondamentaux 1 : colonnes TA à NA"
+      },
+      "description": {
+        "fr": "30 mots des fiches du cours Fondamentaux 1, en 2 leçons."
+      },
+      "tags": [
+        "fdt1"
+      ],
+      "cardCount": 30,
+      "lessonCount": 2,
+      "url": "decks/fdt1-lecture-ta-na.json",
+      "sha256": "13e07246164dec3904aa88f3e870a6862f5ea343a923ce5c327d322d64fd2728",
+      "sizeBytes": 7985,
+      "license": "Fdt1 (usage du groupe)",
+      "changelog": {}
+    },
+    {
+      "id": "fdt1-phrases-existence",
+      "version": "1.1.0",
+      "deckSchema": 1,
+      "minAppVersion": "1.0.0",
+      "title": {
+        "fr": "Fondamentaux 1 : décrire une scène"
+      },
+      "description": {
+        "fr": "40 mots des fiches du cours Fondamentaux 1, en 3 leçons."
+      },
+      "tags": [
+        "fdt1"
+      ],
+      "cardCount": 40,
+      "lessonCount": 3,
+      "url": "decks/fdt1-phrases-existence.json",
+      "sha256": "d123e7ccd224ffa1d8f4caaf53fe1fd002c95aff2883b3dee7278d0924bb3678",
+      "sizeBytes": 10327,
+      "license": "Fdt1 (usage du groupe)",
+      "changelog": {}
+    },
+    {
+      "id": "jlpt-n5-starter",
+      "version": "1.0.0",
+      "deckSchema": 1,
+      "minAppVersion": "1.0.0",
+      "title": {
+        "fr": "JLPT N5 — Démarrage",
+        "en": "JLPT N5 — Starter"
+      },
+      "description": {
+        "fr": "93 mots essentiels du N5 en 9 leçons, avec accent tonal.",
+        "en": "93 core N5 words in 9 lessons."
+      },
+      "tags": [
+        "jlpt",
+        "n5"
+      ],
+      "cardCount": 93,
+      "lessonCount": 9,
+      "url": "decks/jlpt-n5-starter.json",
+      "sha256": "959fd12654b5f18d884f842e1c2c7f2aace83ca8ee64639e14a0a2ee78d5e44e",
+      "sizeBytes": 25148,
+      "license": "CC-BY-SA-4.0",
+      "changelog": {}
+    },
+    {
+      "id": "kana-hiragana",
+      "version": "1.0.0",
+      "deckSchema": 1,
+      "minAppVersion": "1.0.0",
+      "title": {
+        "fr": "Hiragana",
+        "en": "Hiragana"
+      },
+      "description": {
+        "fr": "Les 104 hiragana : base, dakuten et combinaisons.",
+        "en": "All 104 hiragana."
+      },
+      "tags": [
+        "kana"
+      ],
+      "cardCount": 104,
+      "lessonCount": 16,
+      "url": "decks/kana-hiragana.json",
+      "sha256": "2686a204c9393caf73a3c28c924b5ad227766c5ac65088cb7a8173c106421b09",
+      "sizeBytes": 19956,
+      "license": "CC-BY-SA-4.0",
+      "changelog": {}
+    },
+    {
+      "id": "kana-katakana",
+      "version": "1.0.0",
+      "deckSchema": 1,
+      "minAppVersion": "1.0.0",
+      "title": {
+        "fr": "Katakana",
+        "en": "Katakana"
+      },
+      "description": {
+        "fr": "Les 104 katakana : base, dakuten et combinaisons.",
+        "en": "All 104 katakana."
+      },
+      "tags": [
+        "kana"
+      ],
+      "cardCount": 104,
+      "lessonCount": 16,
+      "url": "decks/kana-katakana.json",
+      "sha256": "beba13ed5cfa72d6229d0fb748763c66016b16d81a511ff3e0cf1736a6da9ca0",
+      "sizeBytes": 19956,
+      "license": "CC-BY-SA-4.0",
+      "changelog": {}
+    }
+  ]
+}
